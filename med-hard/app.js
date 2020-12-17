@@ -1,7 +1,7 @@
-// GET: localhost:5060/employees/<employeeID> = Returns json with the information from that specific employee.
-// POST:localhost:5060/employees/ = Inserts new employee into your data. GET::myendpointname.com/employees = Returns json with information from all employees.
-// PUT:localhost:5060/employees/<employeeID> = Updates information for specified employee.
-// DELETE:localhost:5060/employees/<employeeID> = Removes the employee with that ID from the data.
+// GET: localhost:5010/employees/<employeeID> = Returns json with the information from that specific employee.
+// POST:localhost:5010/employees/ = Inserts new employee into your data. GET::myendpointname.com/employees = Returns json with information from all employees.
+// PUT:localhost:5010/employees/<employeeID> = Updates information for specified employee.
+// DELETE:localhost:5010/employees/<employeeID> = Removes the employee with that ID from the data.
 
 
 const express = require('express');
